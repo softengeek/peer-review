@@ -10,3 +10,4 @@
 - Add the things i couldn't complete in time
 - Simulate a database with the localstorage
 - Improve CSS styling method used
+- Add automated and unit testing to the project 
