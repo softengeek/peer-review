@@ -1,0 +1,22 @@
+div[class*='MuiCard-root'] {
+    border: 1px solid #d7d8da;
+    padding: 30px;
+    box-shadow: none;
+}
+
+span[class*='MuiRating-iconFilled'] div {
+    background-color: #7F0FD7;
+}
+
+span[class*='MuiRating-iconHover'] div {
+    background-color: #A752E3;
+}
+
+label[class*='MuiRating-label'] {
+    width: 100%
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
